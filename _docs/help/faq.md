@@ -12,6 +12,14 @@ There are a lot of questions that a lot of people have asked over the years. If 
 
 It does not. There may be a minor amount of offline progress in the future, but at this time there is no offline functionality.
 
+##### Q: What does syncing my account do?
+
+It makes it so, primarily, that you will not lose your account if you change machines, or if something else goes wrong. Please sync your account.
+
+##### Q: What does adding my Discord tag or IdleLands 3 Character Name do?
+
+These primarily grant you achievements based on certain things. Discord tag is primarily used by Patreon to grant you rewards based on your backer tier. Your IdleLands 3 character name will grant you achievements based on your achievements in IdleLands 3.
+
 ##### Q: I lost a fight with some dude and then stole his item in the next few minutes, how does that work? Didn't I die?
 
 Yes, you died. Then you were revived immediately, and granted the wonderful chance to pilfer that person fine head-resting-clothes. Events generally do not influence each other, so you can be best friends in one event, and then mortal enemies in the next. They're completely independent!

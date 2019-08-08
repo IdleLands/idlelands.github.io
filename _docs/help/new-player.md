@@ -6,6 +6,14 @@ redirect_from: /docs/index.html
 
 Wondering what you can _actually_ do in this idle game? Surprisingly, a lot!
 
+### Syncing Your Account
+
+You can sync your account in the Settings area. This will let you back up your account with an email/password, facebook, google, or twitter account. You can only sync your account with one service, and it will let you log in with that information later.
+
+This means you will not lose your account if something weird happens.
+
+Please sync your account.
+
 ### Choices
 
 Choices (Adventurer -> Choices tab) are the primary way you'll interact with IdleLands. You'll see a lot of different choice types, such as a merchant selling items, or a gambling bet. You'll want to check here often if you care about your characters gear, as this is the primary place all items come in from!
