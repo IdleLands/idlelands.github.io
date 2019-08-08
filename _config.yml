@@ -1,0 +1,68 @@
+# Site settings
+title: IdleLands
+email: hi@idle.land
+description: >
+  The most in-depth idle MMORPG in existence.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://idle.land # the base hostname & protocol for your site
+git_address: https://github.com/IdleLands/IdleLands
+fb_address: https://facebook.com/IdleLands
+tw_address: https://twitter.com/IdleLands
+reddit_address: https://reddit.com/r/idle_lands
+git_edit_address: https://github.com/IdleLands/idlelands.github.io/blob/master
+
+google_analytics_tracking: # "UA-102182053-2"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+gems:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
+timezone: America/Chicago
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    sectionid: blog
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: download
+    type: download
+  values:
+    layout: default
+    sectionid: download
+    seo:
+      type: "WebPage"
+
+collections:
+  download:
+    permalink: /download
+    output: true
+  docs:
+    permalink: /:collection/:path/
+    output: true
+  posts:
+    permalink: /blog/:year/:month/:day/:title/
+    output: true
