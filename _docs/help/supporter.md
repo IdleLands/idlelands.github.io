@@ -21,3 +21,5 @@ So, what do you get for supporting IdleLands? Turns out, it's some cool stuff!
 * +1-2 (depending on Patreon tier) item enchant cap.
 * +1-2 (depending on Patreon tier) max pet missions visible.
 * +3-6 (depending on Patreon tier) max stamina.
+
+To claim these rewards, you must back the Patreon, join our Discord, link your Discord to Patreon, and then (lastly), in game, link your Discord tag. It's a bit convoluted, but it works for now.
