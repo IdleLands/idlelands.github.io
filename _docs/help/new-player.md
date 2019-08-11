@@ -14,6 +14,10 @@ This means you will not lose your account if something weird happens.
 
 Please sync your account.
 
+### Your Class Ability
+
+Every class has a unique ability, which you can use by accruing stamina (gained with IRL time). Each ability has a different cost, and is a different effect. You can use them to give yourself buffs, experience, or other effects!
+
 ### Choices
 
 Choices (Adventurer -> Choices tab) are the primary way you'll interact with IdleLands. You'll see a lot of different choice types, such as a merchant selling items, or a gambling bet. You'll want to check here often if you care about your characters gear, as this is the primary place all items come in from!
