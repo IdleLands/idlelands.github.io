@@ -13,14 +13,14 @@ So, what do you get for supporting IdleLands? Turns out, it's some cool stuff!
 * A Discord role that shows how awesome you are.
 * An in-game achievement with some small perks, including a Donator-only title and pet.
 * A unique pet (the Golden Floating Broom) which is aimed to be an average mid-tier pet.
-* +10-20 (depending on Patreon tier) adventure log entries.
-* +5-10 (depending on Patreon tier) choice log items.
-* +5-10 (depending on Patreon tier) buff scroll hours.
-* +5-10 (depending on Patreon tier) inventory capacity.
-* +100-200 (depending on Patreon tier) max item cap %.
-* +1-2 (depending on Patreon tier) item enchant cap.
-* +1-2 (depending on Patreon tier) max pet missions visible.
-* +3-6 (depending on Patreon tier) max stamina.
+* +20-30 (depending on Patreon tier) adventure log entries.
+* +10-15 (depending on Patreon tier) choice log items.
+* +10-15 (depending on Patreon tier) buff scroll hours.
+* +10-15 (depending on Patreon tier) inventory capacity.
+* +200-300 (depending on Patreon tier) max item cap %.
+* +2-3 (depending on Patreon tier) item enchant cap.
+* +2-3 (depending on Patreon tier) max pet missions visible.
+* +6-9 (depending on Patreon tier) max stamina.
 * Your pet will follow you on the world map.
 
 To claim these rewards, you must back the Patreon, join our Discord, link your Discord to Patreon, and then (lastly), in game, link your Discord tag. It's a bit convoluted, but it works for now.
