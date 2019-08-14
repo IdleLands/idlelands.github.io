@@ -1,8 +1,14 @@
-- title: Help
+- title: About The Game
   docs:
   - home
-  - new-player
-  - stats
-  - faq
   - supporters
   - bug-bounties
+
+- title: Player Help
+  docs:
+  - new-player
+  - faq
+  - stats
+  - divine-direction
+  - about-personalities
+  - collectible-info
