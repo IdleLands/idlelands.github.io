@@ -23,7 +23,7 @@ So, what do you get for supporting IdleLands? Turns out, it's some cool stuff!
 * +6-9 (depending on Patreon tier) max stamina.
 * Your pet will follow you on the world map.
 
-To claim these rewards, you must back the Patreon, join our Discord, link your Discord to Patreon, and then (lastly), in game, link your Discord tag. It's a bit convoluted, but it works for now.
+To claim these rewards, you must back the Patreon, join our Discord, link your Discord to Patreon, and then (lastly), in game, link your Discord tag (this can be done on the Settings page). It's a bit convoluted, but it works for now.
 
 ### Having Trouble? Something Not Working?
 
