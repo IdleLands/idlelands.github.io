@@ -21,7 +21,7 @@ Name | Rewards
 Training Adventure | Pet and Player XP, Gold<br>Very Rare chance for Pet or Player Levels
 Trip to the Merchant Guild | Gold and Items<br>Rare chance for Buff or Teleport Scrolls
 Guardian Hunt | Pet and Player XP, Gold<br>Very Rare chance for Pet and Player Levels<br>Rare chance for Boss drop Items or Collectibles
-Time Travel Adventure (Rare) |Pet and Player XP, Gold<br>Rare chance for Pet and Player Levels Very Rare chance for collectibles found on previous ascensions
+Time Travel Adventure (Rare) |Pet and Player XP, Gold<br>Rare chance for Pet and Player Levels<br>Very Rare chance for collectibles found on previous ascensions
 Magical Item Search (Rare) |Pet and Player XP, Gold<br>Rare chance for Buff or Teleport Scrolls
 Pet Enhancement Material Search |Pet XP<br>Rare chance for Coloured Crystals<br>Very Rare chance for Coloured Souls
 Idle Adventure |Pet and Player XP<br>Very Rare chance for Coloured Crystals<br>Rare chance for Buff or Teleport Scrolls or Items
