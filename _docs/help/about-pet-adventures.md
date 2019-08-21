@@ -12,7 +12,7 @@ Found in the “Pets” tab, under “Adventures”, pet adventures allow you to
 
 All players have a base of 3 Pet Adventures available at one time, and more slots can be gained from certain achievements, by spending ILP, or by having a higher Donator tier. 
 
-All varieties of pet adventure can have 5 different lengths; 2, 4, 8, 16, or 24 hours with 8 hours being the most common. This time starts when you send your pet(s) off on their adventure, and counts down even when offline.
+All varieties of pet adventure can have 5 different lengths; 2, 4, 8, 16, or 24 hours with 8 hours being the most common. This time starts when you send your pet(s) off on their adventure, and counts down even when offline. Once the time is up, the adventure can be completed by clicking on the "Collect Rewards" button, and the rewards will be displayed. All pets that were on the adventure will now be free to be sent on another.
 
 Pet adventures come in 8 varieties, with different rewards depending on the type chosen:
 
