@@ -12,4 +12,4 @@ Your character will generally, but not always, move closer to your target on eac
  
 Attempting to move large distances will tend to get you stuck, unless moving through very open terrain. Short waypoints are more reliable and allow much greater control over your travel.
  
-On arrival, your character will attempt to stay in the vicinity, but will not stop on the target. DD lasts 360 ticks. It is freely refreshed at will, and has no cooldown. Using DD will build your "Divine" achievement; boosting your maximum stamina at certain milestones of divine steps taken.
+On arrival, your character will attempt to stay in the vicinity, but will not stop on the target. DD lasts 360 ticks (30 minutes). It is freely refreshed at will, and has no cooldown. Using DD will build your "Divine" achievement; boosting your maximum stamina at certain milestones of divine steps taken.
