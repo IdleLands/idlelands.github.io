@@ -8,7 +8,7 @@ _written by Gk_
 
 Personalities, AKA "How do I get out of this dungeon? I fell in a hole."
  
-Accessible through the menus on your character page, personality options allow you set up behaviors for your character.
+Accessible through the menus on your character page, personality options allow you to set up behaviors for your character.
  
 More options will unlock as you progress the game and gain accomplishments. Some affect your movement or force/forbid certain actions on the map, others will automatically select certain options for your choices. Some even give bonus stats. Discover and strategize!
  
