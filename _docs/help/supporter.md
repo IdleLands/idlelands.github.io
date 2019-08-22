@@ -18,7 +18,7 @@ So, what do you get for supporting IdleLands? Turns out, it's some cool stuff!
 * +10-15 (depending on Patreon tier) choice log items.
 * +2-3 (depending on Patreon tier) buff scroll hours.
 * +10-15 (depending on Patreon tier) inventory capacity.
-* +200-300 (depending on Patreon tier) max item cap %.
+* +100-150 (depending on Patreon tier) max item cap %.
 * +2-3 (depending on Patreon tier) item enchant cap.
 * +2-3 (depending on Patreon tier) max pet missions visible.
 * +6-9 (depending on Patreon tier) max stamina.
