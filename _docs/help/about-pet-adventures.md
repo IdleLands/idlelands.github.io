@@ -23,7 +23,7 @@ Trip to the Merchant Guild |- Gold and Items<br>- Rare chance for Buff or Telepo
 Guardian Hunt |- Pet and Player XP, Gold<br>- Very Rare chance for full Pet and Player Levels<br>- Rare chance for Boss drop Items or Collectibles
 Time Travel Adventure (Rare) |- Pet and Player XP, Gold<br>- Rare chance for full Pet and Player Levels<br>- Very Rare chance for [collectibles](https://idle.land/docs/collectible-info/) found on previous ascensions
 Magical Item Search (Rare) |- Pet and Player XP, Gold<br>- Rare chance for Buff or Teleport Scrolls
-Pet Enhancement Material Search |- Pet XP<br>- Rare chance for Coloured Crystals<br>- Very Rare chance for Coloured Souls
+Pet Enhancement Material Search |- Pet XP<br>- Rare chance for Coloured Crystals<br>- Very Rare chance for Astral Crystals<br>- Very Rare chance for Coloured Souls
 Idle Adventure |- Pet and Player XP<br>- Very Rare chance for Coloured Crystals<br>- Rare chance for Buff or Teleport Scrolls or Items
 Graverobbing the Adventurers Graveyard |- Pet and Player XP<br>- Rare chance for Items<br>- Very Rare chance for Valuable Items
 
