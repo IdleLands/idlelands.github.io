@@ -1,6 +1,6 @@
 ---
-title: About Personalities
-permalink: /docs/about-personalities/
+title: About Classes
+permalink: /docs/about-classes/
 redirect_from: /docs/index.html
 ---
 
