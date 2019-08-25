@@ -6,8 +6,6 @@ redirect_from: /docs/index.html
 
 _written by Brooke Renna_
 
-Classes, AKA “In what way do I beat up enemies?”
-
 There are 15 classes available to play as, some available straight away and some that require a little seeking out. All new players start as the Generalist, but your class can be switched by finding a Trainer in the world (Hover your mouse over people on the map to see a tooltip about who they are!) and stepping on the tile they’re in. This will bring up a choice in your choice log enabling you to switch class (Note: you can only have one change class choice in your log at any time).
 
 All classes have different styles in battle, different weighting to their [stats](https://idle.land/docs/stats/) and different abilities. Many class abilities improve based on your level, how often you’ve switched to that class, or how often you’ve used that ability.
