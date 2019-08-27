@@ -16,3 +16,7 @@
   - about-ascending
   - collectible-info
   - premium-upgrades
+
+- title: About The Game Internals
+  docs:
+  - event-replacements
