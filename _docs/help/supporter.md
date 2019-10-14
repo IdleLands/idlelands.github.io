@@ -23,6 +23,7 @@ So, what do you get for supporting IdleLands? Turns out, it's some cool stuff!
 * +2-3 (depending on Patreon tier) max pet missions visible.
 * +6-9 (depending on Patreon tier) max stamina.
 * +2-3 (depending on Patreon tier) max quests.
+* -1 minute stamina regen.
 
 To claim these rewards, you must back the Patreon, join our Discord, link your Discord to Patreon, and then (lastly), in game, link your Discord tag (this can be done on the Settings page). It's a bit convoluted, but it works for now.
 
