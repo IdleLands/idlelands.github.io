@@ -51,7 +51,7 @@ Guts and glory, the Fighter uses their STR stat to deal damage in single or mult
 
 Jack of all trades, the Generalist uses a combination of all their stats to increase their damage, and can boost any of their stats randomly, or restore some of their health based on their HP stat. Outside of battle, the Generalist can use their ability:
 
-**Generalize**: Gain XP based on your Luck (10 stamina)
+**Generalize**: Gain XP based on your Luck (25 stamina)
 
 ### Jester
 
