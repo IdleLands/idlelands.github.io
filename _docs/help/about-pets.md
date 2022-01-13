@@ -10,5 +10,5 @@ Under "Active Pet Stats" you can find your currently active pet and its stats. M
 
 Under "Active Pet Gear" you can equip items from your inventory just like you do with your player. Each pet has a different number of slots and types of gear they can accept so check that for each pet individually.
 
-Under "All Pets" you can see an overview of all your pets and it is the place where you can activate a different pet. If you can buy a new pet this will also appear under this tab below all the pets you already own. Eah pet shows when you can next gather, which means you need to activate that pet to collect all the ILP and items that your pet has gathered over time.
+Under "All Pets" you can see an overview of all your pets and it is the place where you can activate a different pet. If you can buy a new pet this will also appear under this tab below all the pets you already own. Each pet shows when you can next gather, which means you need to activate that pet to collect all the ILP and items that your pet has gathered over time.
 
