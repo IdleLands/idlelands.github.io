@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: World Map
 permalink: /docs/world-map/
 redirect_from: /docs/index.html
 ---
