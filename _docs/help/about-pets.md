@@ -11,4 +11,4 @@ Under "Active Pet Stats" you can find your currently active pet and its stats. M
 Under "Active Pet Gear" you can equip items from your inventory just like you do with your player. Each pet has a different number of slots and types of gear they can accept so check that for each pet individually.
 
 Under "All Pets" you can see an overview of all your pets and it is the place where you can activate a different pet. Each pet shows when you can next gather, which means you need to activate that pet to collect all the ILP and items that your pet has gathered over time. If you can buy a new pet this will also appear under this tab below all the pets you already own. Different pets have different unlock requirements, as you can see in this table courtesy of ZeroHands2Feet:
-![Pet Unlock Requirements](https://idle.land/img/IdleLand_Pet_Requirements_ZeroHands2Feet.png)
+![Pet Unlock Requirements](https://idle.land/img/IdleLands_Pet_Requirements_ZeroHands2Feet.png)
