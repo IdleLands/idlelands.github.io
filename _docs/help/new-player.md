@@ -16,7 +16,7 @@ Please sync your account.
 
 ### Your Class Ability
 
-Every class has a unique ability, which you can use by accruing stamina (gained with IRL time). Each ability has a different cost, and is a different effect. You can use them to give yourself buffs, experience, or other effects!
+Every class has a unique ability, which you can use by accruing stamina (gained with IRL time). Each ability has a different cost, and is a different effect. You can use them to give yourself buffs, experience, or other effects! For more information about which ability belongs to which class, please read [about classes](https://idle.land/docs/about-classes/).
 
 ### Choices
 
@@ -24,19 +24,19 @@ Choices (Adventurer -> Choices tab) are the primary way you'll interact with Idl
 
 ### Divine Direction
 
-On the Map screen, you can click anywhere to set a Divine Direction. This means your character will walk towards that location for 360 ticks (30 minutes). This will let you more easily get that class trainer, collectible, or navigate that dungeon.
+On the Map screen, you can click anywhere to set a Divine Direction. This means your character will walk towards that location for 360 ticks (30 minutes). This will let you more easily get that class trainer, collectible, or navigate that dungeon. Check out [this page](https://idle.land/docs/divine-direction/) for more details.
 
 ### Personalities
 
-Personalities (Adventurer -> Personalities tab) are one of the ways you can influence your character more passively. These will allow you to help your character pick equipment automatically, determine how your character interacts with parties, and more.
+Personalities (Adventurer -> Personalities tab) are one of the ways you can influence your character more passively. These will allow you to help your character pick equipment automatically, determine how your character interacts with parties, and more. For more information read [about personalities](https://idle.land/docs/about-personalities/).
 
 ### Pets
 
-Every adventurer needs a good pet, and you are no exception. In this game, you can buy and upgrade a wide variety of pets, and in turn, those pets will give you a wide variety of bonuses!
+Every adventurer needs a good pet, and you are no exception. In this game, you can buy and upgrade a wide variety of pets, and in turn, those pets will give you a wide variety of bonuses! For more information read [about pets](https://idle.land/docs/about-pets/).
 
 ### Pet Adventures
 
-To make the most of your collection of pets, you can send them on adventures. Send up to 3 per adventure - the more you send, the more rewards you get.
+To make the most of your collection of pets, you can send them on adventures. Send up to 3 per adventure - the more you send, the more rewards you get. For more information read [about pet adventures](https://idle.land/docs/about-pet-adventures/).
 
 ### Astral Gate
 
@@ -45,3 +45,7 @@ The Astral Gate (Premium -> Astral Gate tab) is one of the things you can do to 
 ### Chat
 
 Of course, a game like this is nothing without its community. Chat, introduce yourself, and enjoy the community!
+
+### Guild
+
+Guilds are very useful. Try to join a large active guild if you are interested in participating in raids. Raids are periodic guild battles and yield a lot of XP.
