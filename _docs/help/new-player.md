@@ -45,3 +45,7 @@ The Astral Gate (Premium -> Astral Gate tab) is one of the things you can do to 
 ### Chat
 
 Of course, a game like this is nothing without its community. Chat, introduce yourself, and enjoy the community!
+
+### Guild
+
+Guilds are very useful. Try to join a large active guild if you are interested in participating in raids. Raids are periodic guild battles and yield a lot of XP.
