@@ -22,6 +22,10 @@ Every class has a unique ability, which you can use by accruing stamina (gained 
 
 Choices (Adventurer -> Choices tab) are the primary way you'll interact with IdleLands. You'll see a lot of different choice types, such as a merchant selling items, or a gambling bet. You'll want to check here often if you care about your characters gear, as this is the primary place all items come in from!
 
+### Gear
+
+There are many ways to find items in the game, and you want to equip the best ones to your character. Items have different quality levels, which you can see from the background color. Item levels from worst to best: teal is newbie, grey is basic, purple is pro, green is idle, black is godly, white is goatly and red is omega.
+
 ### Divine Direction
 
 On the Map screen, you can click anywhere to set a Divine Direction. This means your character will walk towards that location for 360 ticks (30 minutes). This will let you more easily get that class trainer, collectible, or navigate that dungeon. Check out [this page](https://idle.land/docs/divine-direction/) for more details.
