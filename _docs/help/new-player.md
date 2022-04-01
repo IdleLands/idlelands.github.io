@@ -24,7 +24,7 @@ Choices (Adventurer -> Choices tab) are the primary way you'll interact with Idl
 
 ### Gear
 
-There are many ways to find items in the game, and you want to equip the best ones to your character. Items have different quality levels, which you can see from the background color. Item levels from worst to best: teal is newbie, grey is basic, purple is pro, green is idle, black is godly, white is goatly and red is omega.
+There are many ways to find items in the game, and you want to equip the best ones to your character. Items have different quality levels, which you can see from the background color. Item tiers from worst to best: teal is newbie, grey is basic, purple is pro, green is idle, black is godly, white is goatly, red is omega and blue is guardian.
 
 ### Divine Direction
 
