@@ -26,6 +26,10 @@ Choices (Adventurer -> Choices tab) are the primary way you'll interact with Idl
 
 Personalities (Adventurer -> Personalities tab) are one of the ways you can influence your character more passively. These will allow you to help your character pick equipment automatically, determine how your character interacts with parties, and more. For more information read [about personalities](https://idle.land/docs/about-personalities/).
 
+### Accomplishments
+
+Rewards for accomplishments include stat boosts, genders, titles and personalities. Try to get them all! You can find all the achievements including their requirements in [this folder in the source code](https://github.com/IdleLands/IdleLands/tree/master/src/server/core/game/achievements).
+
 ### Chat
 
 Of course, a game like this is nothing without its community. Chat, introduce yourself, and enjoy the community!
@@ -54,3 +58,10 @@ To make the most of your collection of pets, you can send them on adventures. Se
 
 The Astral Gate (Premium -> Astral Gate tab) is one of the things you can do to gain pet enhancement items or more pets. You also get to roll for free daily, so check back often!
 
+### Quests
+
+Quests are a great way to get extra experience, gold and items. To complete each quest you must fulfill requirements including collecting treasure, touching collectibles, salling/salvaging items, battling, spending stamina, gaining/spending gold and taking steps. If there is a requirement that you don't like, you can reroll it as long as you have more than 100k gold.
+
+### Global Quests
+
+Are like regular quests, but you must work together with all other players to achieve them.
